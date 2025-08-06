@@ -43,6 +43,7 @@ export default function Page() {
       width={560}
       height={620}
       className="hidden sm:block"
+      alt="Screenshots of the dashboard project showing mobile version"
       />
         </div>
       </div>
